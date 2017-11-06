@@ -1,0 +1,535 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\BakingApp\app\build\intermediates\transforms\desugar\release\6.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="27.0.0"
+        sha1="dbc9902043ee7a78ed23ed43a78676c69b16d974">
+        <dex dex="D:\BakingApp\app\build\intermediates\transforms\preDex\release\6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\BakingApp\app\build\intermediates\transforms\desugar\release\45.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="27.0.0"
+        sha1="8dd69d78183296a0d165cc30c37a5d0d84bbb79a">
+        <dex dex="D:\BakingApp\app\build\intermediates\transforms\preDex\release\45.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\BakingApp\app\build\intermediates\transforms\desugar\release\35.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="27.0.0"
+        sha1="ccf40337379a5b8108ebe7b5288f62f28438149f">
+        <dex dex="D:\BakingApp\app\build\intermediates\transforms\preDex\release\35.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\BakingApp\app\build\intermediates\transforms\desugar\release\28.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="27.0.0"
+        sha1="e7e421128ed262bc9f13e95ec3b7ec29183154c1">
+        <dex dex="D:\BakingApp\app\build\intermediates\transforms\preDex\release\28.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\BakingApp\app\build\intermediates\transforms\desugar\release\3.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="27.0.0"
+        sha1="d6d8eab51d3a19c7de0f707f56820c2da8b9fca8">
+        <dex dex="D:\BakingApp\app\build\intermediates\transforms\preDex\release\3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\BakingApp\app\build\intermediates\transforms\desugar\release\15.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="27.0.0"
+        sha1="138f92c6bb9944c332c508aeee2f04827f072f73">
+        <dex dex="D:\BakingApp\app\build\intermediates\transforms\preDex\release\15.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\BakingApp\app\build\intermediates\transforms\desugar\release\16.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="27.0.0"
+        sha1="736b1fb7f93c5df166cd9946b943968c79eb4908">
+        <dex dex="D:\BakingApp\app\build\intermediates\transforms\preDex\release\16.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\BakingApp\app\build\intermediates\transforms\desugar\release\7.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="27.0.0"
+        sha1="9eb879f53981b40166bf4023f8fca00072f05167">
+        <dex dex="D:\BakingApp\app\build\intermediates\transforms\preDex\release\7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\BakingApp\app\build\intermediates\transforms\desugar\release\34.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="27.0.0"
+        sha1="22b429c01580e47009fe15812e05a1edb14f8284">
+        <dex dex="D:\BakingApp\app\build\intermediates\transforms\preDex\release\34.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\BakingApp\app\build\intermediates\transforms\desugar\release\47.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="27.0.0"
+        sha1="0835a62d9caf25ade0e6973dcd95d622469ff443">
+        <dex dex="D:\BakingApp\app\build\intermediates\transforms\preDex\release\47.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\BakingApp\app\build\intermediates\transforms\desugar\release\51.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="27.0.0"
+        sha1="2cce1edf674299569566f6961bca5352bd512ea7">
+        <dex dex="D:\BakingApp\app\build\intermediates\transforms\preDex\release\51.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\BakingApp\app\build\intermediates\transforms\desugar\release\21.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="27.0.0"
+        sha1="9e1a94e703149b5187cec2960b7b171d812539b4">
+        <dex dex="D:\BakingApp\app\build\intermediates\transforms\preDex\release\21.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\BakingApp\app\build\intermediates\transforms\desugar\release\26.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="27.0.0"
+        sha1="8549f0ebad475cf5ebd77fff9a06c189ce24123e">
+        <dex dex="D:\BakingApp\app\build\intermediates\transforms\preDex\release\26.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\BakingApp\app\build\intermediates\transforms\desugar\release\19.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="27.0.0"
+        sha1="a7e53a3de8f8e13b5f3fa83365947ccfa3c675bf">
+        <dex dex="D:\BakingApp\app\build\intermediates\transforms\preDex\release\19.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\BakingApp\app\build\intermediates\transforms\desugar\release\30.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="27.0.0"
+        sha1="fe015e761ee63174adce88d15a148ec3844556b6">
+        <dex dex="D:\BakingApp\app\build\intermediates\transforms\preDex\release\30.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\BakingApp\app\build\intermediates\transforms\desugar\release\20.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="27.0.0"
+        sha1="672b642b4472c582d8e19f5964e923062d1928e6">
+        <dex dex="D:\BakingApp\app\build\intermediates\transforms\preDex\release\20.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\BakingApp\app\build\intermediates\transforms\desugar\release\46.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="27.0.0"
+        sha1="9391403bdd883204e9c04b575046b23483f70c24">
+        <dex dex="D:\BakingApp\app\build\intermediates\transforms\preDex\release\46.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\BakingApp\app\build\intermediates\transforms\desugar\release\17.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="27.0.0"
+        sha1="aa16efe13e7b11bffcadb4a10800cfc06ba4d984">
+        <dex dex="D:\BakingApp\app\build\intermediates\transforms\preDex\release\17.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\BakingApp\app\build\intermediates\transforms\desugar\release\44.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="27.0.0"
+        sha1="78c35d81d68f24a19fa7b53b2e8f291135947756">
+        <dex dex="D:\BakingApp\app\build\intermediates\transforms\preDex\release\44.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\BakingApp\app\build\intermediates\transforms\desugar\release\1.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="27.0.0"
+        sha1="95927f363bde459e050c3d48ef9a46cc99c75a6c">
+        <dex dex="D:\BakingApp\app\build\intermediates\transforms\preDex\release\1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\BakingApp\app\build\intermediates\transforms\desugar\release\11.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="27.0.0"
+        sha1="082809ce939a2a1c22a2f17f24cb81948ab9897c">
+        <dex dex="D:\BakingApp\app\build\intermediates\transforms\preDex\release\11.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\BakingApp\app\build\intermediates\transforms\desugar\release\10.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="27.0.0"
+        sha1="6a9cfa342a3378c6390ca0e2aa9a1624fcf1682c">
+        <dex dex="D:\BakingApp\app\build\intermediates\transforms\preDex\release\10.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\BakingApp\app\build\intermediates\transforms\desugar\release\37.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="27.0.0"
+        sha1="c347fbb7f3993a23b16029be252896174caca993">
+        <dex dex="D:\BakingApp\app\build\intermediates\transforms\preDex\release\37.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\BakingApp\app\build\intermediates\transforms\desugar\release\36.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="27.0.0"
+        sha1="5a81fcf49fe413f249fa832d40b018cdd11d92dd">
+        <dex dex="D:\BakingApp\app\build\intermediates\transforms\preDex\release\36.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\BakingApp\app\build\intermediates\transforms\desugar\release\53.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="27.0.0"
+        sha1="11544a6b1c2abe9017ad8d5118f87da3f81a8e69">
+        <dex dex="D:\BakingApp\app\build\intermediates\transforms\preDex\release\53.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\BakingApp\app\build\intermediates\transforms\desugar\release\14.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="27.0.0"
+        sha1="1c437e3b8b987c6a06d0c4a8a728cd1e09a3a499">
+        <dex dex="D:\BakingApp\app\build\intermediates\transforms\preDex\release\14.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\BakingApp\app\build\intermediates\transforms\desugar\release\27.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="27.0.0"
+        sha1="626a5b28c60d7200435fab4ad9328dca70e63908">
+        <dex dex="D:\BakingApp\app\build\intermediates\transforms\preDex\release\27.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\BakingApp\app\build\intermediates\transforms\desugar\release\43.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="27.0.0"
+        sha1="98182511fc9130d80399508aa33a6eb6c28340cb">
+        <dex dex="D:\BakingApp\app\build\intermediates\transforms\preDex\release\43.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\BakingApp\app\build\intermediates\transforms\desugar\release\4.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="27.0.0"
+        sha1="aca1398738311cb9ed7cb12e0f2f979c0333db94">
+        <dex dex="D:\BakingApp\app\build\intermediates\transforms\preDex\release\4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\BakingApp\app\build\intermediates\transforms\desugar\release\8.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="27.0.0"
+        sha1="ed01b4972d293705a4f32310525f39a0c758a5cd">
+        <dex dex="D:\BakingApp\app\build\intermediates\transforms\preDex\release\8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\BakingApp\app\build\intermediates\transforms\desugar\release\48.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="27.0.0"
+        sha1="395e62dc10db019f812e465a236fe1351bfd33b6">
+        <dex dex="D:\BakingApp\app\build\intermediates\transforms\preDex\release\48.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\BakingApp\app\build\intermediates\transforms\desugar\release\5.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="27.0.0"
+        sha1="89cafc58e40b6c6bf4f30620e48a5499c30532c1">
+        <dex dex="D:\BakingApp\app\build\intermediates\transforms\preDex\release\5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\BakingApp\app\build\intermediates\transforms\desugar\release\18.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="27.0.0"
+        sha1="524001ddbd50934b203507e828d624a535f3f755">
+        <dex dex="D:\BakingApp\app\build\intermediates\transforms\preDex\release\18.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\BakingApp\app\build\intermediates\transforms\desugar\release\31.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="27.0.0"
+        sha1="ff4e6abac01e5c6de5b968797786b513b41a2cbc">
+        <dex dex="D:\BakingApp\app\build\intermediates\transforms\preDex\release\31.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\BakingApp\app\build\intermediates\transforms\desugar\release\33.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="27.0.0"
+        sha1="5e52f7efe80643b7bb644e8cc1fb9e59fc6680d6">
+        <dex dex="D:\BakingApp\app\build\intermediates\transforms\preDex\release\33.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\BakingApp\app\build\intermediates\transforms\desugar\release\23.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="27.0.0"
+        sha1="6cb680d71eed7d35f5a5923ea8452a3aace01b78">
+        <dex dex="D:\BakingApp\app\build\intermediates\transforms\preDex\release\23.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\BakingApp\app\build\intermediates\transforms\desugar\release\2.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="27.0.0"
+        sha1="79b0c1a110926b02b601d00503a0c28c8d8c94ca">
+        <dex dex="D:\BakingApp\app\build\intermediates\transforms\preDex\release\2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\BakingApp\app\build\intermediates\transforms\desugar\release\38.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="27.0.0"
+        sha1="254f3ca60f9c3eaecf17e675328d6054a8a86008">
+        <dex dex="D:\BakingApp\app\build\intermediates\transforms\preDex\release\38.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\BakingApp\app\build\intermediates\transforms\desugar\release\25.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="27.0.0"
+        sha1="8d366e850d14560070d483915cfd886bb795a07f">
+        <dex dex="D:\BakingApp\app\build\intermediates\transforms\preDex\release\25.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\BakingApp\app\build\intermediates\transforms\desugar\release\24.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="27.0.0"
+        sha1="c5ff161ce4e061cf0ac9ef73c8bad2d8f3b810a1">
+        <dex dex="D:\BakingApp\app\build\intermediates\transforms\preDex\release\24.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\BakingApp\app\build\intermediates\transforms\desugar\release\12.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="27.0.0"
+        sha1="238969cdb943afd386f1babb95afc45f5897e86b">
+        <dex dex="D:\BakingApp\app\build\intermediates\transforms\preDex\release\12.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\BakingApp\app\build\intermediates\transforms\desugar\release\32.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="27.0.0"
+        sha1="cd963346fe7e65dcac06494be3e30161837be1ba">
+        <dex dex="D:\BakingApp\app\build\intermediates\transforms\preDex\release\32.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\BakingApp\app\build\intermediates\transforms\desugar\release\41.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="27.0.0"
+        sha1="bc1095c7deb69858c3d0bb2ad6a3aaad6e446c07">
+        <dex dex="D:\BakingApp\app\build\intermediates\transforms\preDex\release\41.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\BakingApp\app\build\intermediates\transforms\desugar\release\52.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="27.0.0"
+        sha1="2eee543a111b6e8adc929038d0e8c1e8410652dd">
+        <dex dex="D:\BakingApp\app\build\intermediates\transforms\preDex\release\52.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\BakingApp\app\build\intermediates\transforms\desugar\release\29.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="27.0.0"
+        sha1="9d2c475a5b552fccad2c09e9403fc17c81e4df08">
+        <dex dex="D:\BakingApp\app\build\intermediates\transforms\preDex\release\29.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\BakingApp\app\build\intermediates\transforms\desugar\release\13.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="27.0.0"
+        sha1="04b54c1584ce3991189f18060ea3c8b7ce4c8cec">
+        <dex dex="D:\BakingApp\app\build\intermediates\transforms\preDex\release\13.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\BakingApp\app\build\intermediates\transforms\desugar\release\42.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="27.0.0"
+        sha1="58bb09923964744f8a1e84d33fc23f7067b2438f">
+        <dex dex="D:\BakingApp\app\build\intermediates\transforms\preDex\release\42.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\BakingApp\app\build\intermediates\transforms\desugar\release\9.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="27.0.0"
+        sha1="3c54c4b8a2983cf248c13117b6ea7886d328bbd9">
+        <dex dex="D:\BakingApp\app\build\intermediates\transforms\preDex\release\9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\BakingApp\app\build\intermediates\transforms\desugar\release\39.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="27.0.0"
+        sha1="285b9eedc14a76293d744319965f4d4147ab3f0f">
+        <dex dex="D:\BakingApp\app\build\intermediates\transforms\preDex\release\39.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\BakingApp\app\build\intermediates\transforms\desugar\release\50.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="27.0.0"
+        sha1="42b98c627a5d4e3d4831bb3bcbbf604227421fc5">
+        <dex dex="D:\BakingApp\app\build\intermediates\transforms\preDex\release\50.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\BakingApp\app\build\intermediates\transforms\desugar\release\49.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="27.0.0"
+        sha1="f08c5fbde3486ced7060b5de138691ef41e69e7d">
+        <dex dex="D:\BakingApp\app\build\intermediates\transforms\preDex\release\49.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\BakingApp\app\build\intermediates\transforms\desugar\release\40.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="27.0.0"
+        sha1="21cfa4a92457e62a5784667dd90b6bb4ec51504b">
+        <dex dex="D:\BakingApp\app\build\intermediates\transforms\preDex\release\40.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\BakingApp\app\build\intermediates\transforms\desugar\release\22.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="27.0.0"
+        sha1="18ba3f2d231395b13e9e993d232711405e74e05f">
+        <dex dex="D:\BakingApp\app\build\intermediates\transforms\preDex\release\22.jar" />
+    </item>
+
+</items>

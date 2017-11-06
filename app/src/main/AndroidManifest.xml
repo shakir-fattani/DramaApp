@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:tools="http://schemas.android.com/tools"
+  package="com.appsys.dramasapp">
+
+  <uses-permission android:name="android.permission.INTERNET"/>
+
+  <application
+    android:allowBackup="true"
+    android:icon="@mipmap/ic_launcher"
+    android:label="@string/app_name"
+    android:name=".BakingApp"
+    android:roundIcon="@mipmap/ic_launcher_round"
+    android:supportsRtl="true"
+    android:theme="@style/AppTheme"
+    tools:ignore="GoogleAppIndexingWarning">
+    <activity
+      android:launchMode="singleTop"
+      android:name=".features.recipelist.RecipeListActivity">
+      <intent-filter>
+        <action android:name="android.intent.action.MAIN"/>
+
+        <category android:name="android.intent.category.LAUNCHER"/>
+      </intent-filter>
+    </activity>
+    <activity
+      android:name=".features.recipedetails.RecipeDetailsActivity"
+      android:parentActivityName=".features.recipelist.RecipeListActivity">
+      <meta-data
+        android:name="android.support.PARENT_ACTIVITY"
+        android:value=".features.recipelist.RecipeListActivity"/>
+    </activity>
+    <activity
+      android:label="@string/step_activity_title"
+      android:name=".features.recipestep.RecipeStepActivity"
+      android:parentActivityName=".features.recipedetails.RecipeDetailsActivity">
+      <meta-data
+        android:name="android.support.PARENT_ACTIVITY"
+        android:value=".features.recipedetails.RecipeDetailsActivity"/>
+    </activity>
+
+    <receiver android:name=".features.widget.WidgetProvider">
+      <intent-filter>
+        <action android:name="android.appwidget.action.APPWIDGET_UPDATE"/>
+      </intent-filter>
+
+      <meta-data
+        android:name="android.appwidget.provider"
+        android:resource="@xml/ingredients_widget_info"/>
+    </receiver>
+
+    <activity android:name=".features.widget.WidgetConfigurationActivity">
+      <intent-filter>
+        <action android:name="android.appwidget.action.APPWIDGET_CONFIGURE"/>
+      </intent-filter>
+    </activity>
+
+  </application>
+
+</manifest>
